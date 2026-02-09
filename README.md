@@ -151,8 +151,7 @@ curl -X POST http://localhost:3000/api/auth/login -H "Content-Type: application/
 
 ## 👤 Autor
 
-Estudiante SENA  
-Programa de formación en desarrollo de software
+Roddy Sebastian Holguin Carvajal / ADSO 3070377
 
 ## 📄 Licencia
 
