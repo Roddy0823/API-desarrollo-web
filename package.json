@@ -1,0 +1,22 @@
+{
+    "name": "auth-service-sena",
+    "version": "1.0.0",
+    "description": "Servicio web de autenticación - Evidencia GA7-220501096-AA5-EV01 SENA",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "node src/server.js"
+    },
+    "keywords": [
+        "autenticación",
+        "api",
+        "express",
+        "sena"
+    ],
+    "author": "Estudiante SENA",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2",
+        "bcryptjs": "^2.4.3"
+    }
+}
